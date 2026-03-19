@@ -22,3 +22,9 @@ export default defineConfig(({mode}) => {
     },
   };
 });
+// vite.config.ts
+export default defineConfig({
+  base: '/aapka-repo-naam/', // Yahan apne GitHub repository ka naam likhein
+  plugins: [react(), tailwindcss()],
+  // ... baaki config
+});
