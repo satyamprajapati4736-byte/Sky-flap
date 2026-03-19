@@ -1,0 +1,5 @@
+{
+  "name": "Sky Flap",
+  "description": "A classic Flappy Bird style game with responsive controls and increasing difficulty.",
+  "requestFramePermissions": []
+}
